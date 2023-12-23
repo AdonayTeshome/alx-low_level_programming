@@ -31,3 +31,25 @@
 * Your program should return 0
 * Your program should compile without warning when using the -Wall gcc option
 ##
+## _6. Size is not grandeur, and territory does not make a nation_
+### Write a C program that prints the size of various types on the computer it is compiled and run on.
+* You should produce the exact same output as in the example
+<sub>
+julien@ubuntu:~/c/0x00$ ./size32
+Size of a char: 1 byte(s)
+Size of an int: 4 byte(s)
+Size of a long int: 4 byte(s)
+Size of a long long int: 8 byte(s)
+Size of a float: 4 byte(s)
+julien@ubuntu:~/c/0x00$ ./size64
+Size of a char: 1 byte(s)
+Size of an int: 4 byte(s)
+Size of a long int: 8 byte(s)
+Size of a long long int: 8 byte(s)
+Size of a float: 4 byte(s)
+</sub>
+* Warnings are allowed 
+* Your program should return 0 
+* You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
+
+##
