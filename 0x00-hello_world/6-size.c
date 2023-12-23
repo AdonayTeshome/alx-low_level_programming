@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
  * main - entry point
- * Description - Print the size of some datatypes using sizeof and printf
- * Return - 0 Successful
+ * Description: 'Print the size of char,int,long int,long long int and float using sizeof and printf'
+ * Return: Always  0 (Successful)
  */
 int main(void)
 {
