@@ -1,4 +1,4 @@
-#include<studio.h>
+#include <stdio.h>
 /*
  * main - entry point
  * Print the size of some datatypes using sizeof and printf
