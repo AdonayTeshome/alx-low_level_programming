@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
+
 /**
  * main - entry point
- * Descrition: use write to print a string
- * Return 1
+ * Description: printing using write functiom
+ * Return: Always 1
  */
 int main(void)
 {
