@@ -1,9 +1,11 @@
 #include <stdio.h>
-/*
+/**
  * main - entry point
- * Description: 'Print the size of char,int,long int,long long int and float using sizeof and printf'
+ * Description: 'Print the size of C datatypes using sizeof and printf'
+ *
  * Return: Always  0 (Successful)
  */
+
 int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
