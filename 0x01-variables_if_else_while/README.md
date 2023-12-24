@@ -11,6 +11,7 @@
     * if the number is 0: is zero
     * if the number is less than 0: is negative
   * followed by a new line
+![Alt text](image ./img/0.png)
 #
 ## _1. The last digit_
 ### This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.
