@@ -12,7 +12,7 @@
     * if the number is less than 0: is negative
   * followed by a new line
 #
-![Alt text](./img/0.png)
+![](./img/0.png=350*350)
 #
 ## _1. The last digit_
 ### This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.
@@ -26,7 +26,7 @@
   * if the last digit of n is less than 6 and not 0: the string and is less than 6 and not 0
 * followed by a new line
 #
-![Alt text](./img/1.png)
+![](./img/1.png=350x350)
 #
 ## 3. _alphABET_
 ### Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
@@ -34,7 +34,7 @@
 * All your code should be in the main function
 * You can only use putchar three times in your code
 #
-![Alt text](./img/2.png)
+![Alt text](./img/2.png=350*350)
 #
 
 
