@@ -2,15 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - enty point
- *
+ * main: enty point
  * @n: rand()
  *
- * check if the rand value is 0 if it is print the number  is zero
- * else check if the rand value is greater than 0 print the number is positive
- * if not print the number  is negative
+ * check if the rand value is 0 if it is print the number  is zero else check if the rand value is greater than 0 print the number is positive if not print the number  is negative
  *
- * Return - 0 ( Allways )
+ * Return: 0 ( Allways )
  */
 int main(void)
 {
