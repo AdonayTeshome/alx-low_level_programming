@@ -2,10 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
+ * Description: Check a random number if it is zero, positive, or negative
+ *
  * main: enty point
  * @n: rand()
- *
- * check if the rand value is 0 if it is print the number  is zero else check if the rand value is greater than 0 print the number is positive if not print the number  is negative
+ * Description: set random number to n check the number and print
  *
  * Return: 0 ( Allways )
  */
