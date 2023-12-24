@@ -4,7 +4,7 @@
 /**
  * Description: Check a random number if it is zero, positive, or negative
  *
- * main: enty point
+ * main - Entry point
  * @n: rand()
  * Description: set random number to n check the number and print
  *
