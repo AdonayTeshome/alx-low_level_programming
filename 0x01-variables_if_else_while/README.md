@@ -26,5 +26,6 @@
   * if the last digit of n is less than 6 and not 0: the string and is less than 6 and not 0
 * followed by a new line
 #
+![Alt text](./img/1.png)
 
 
