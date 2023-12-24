@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- * @ n: set value of rand()
+ * @ n: is the value of rand() number
  * Description: set random number to n then check the number and print
  *
  * Return: 0 ( Allways )
