@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  * @n: rand()
- * Description: set random number to n check the number and print positv, negative,zero
+ * Description: set random number to n then check the number and print
  *
  * Return: 0 ( Allways )
  */
