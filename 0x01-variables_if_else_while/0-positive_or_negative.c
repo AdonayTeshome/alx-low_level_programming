@@ -5,6 +5,7 @@
  * main - enty point
  *
  * @n: rand()
+ *
  * check if n is 0 if it is print n is zero
  * else check if n is greater than 0 print n is positive
  * if not print n is negative
@@ -19,15 +20,15 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n == 0)
 	{
-	printf("%i is zero", n);
+	printf("%i is zeroi \n", n);
 	}
 	else if (n > 0)
 	{
-	printf("%i is positive", n);
+	printf("%i is positive \n", n);
 	}
 	else
 	{
-	printf("%i is negative", n);
+	printf("%i is negative \n", n);
 	}
 	return (0);
 }
