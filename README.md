@@ -8,7 +8,7 @@
 ## Task-1: _0x01. C - Variables, if, else, while_
 ### For this project, we expect you to look at this concept
 * Struggling with the sandbox? Try this: Using Docker & WSL on your local host
-## Task-2
+## Task-2: _0x02. C - Functions, nested loops_
 * What are nested loops and how to use them
 * What is a function and how do you use functions
 * What is the difference between a declaration and a definition of a function
