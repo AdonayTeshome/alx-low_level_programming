@@ -2,11 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * Description: Check a random number if it is zero, positive, or negative
- *
  * main - Entry point
  * @n: rand()
- * Description: set random number to n check the number and print
+ * Description: set random number to n check the number and print positv, negative,zero
  *
  * Return: 0 ( Allways )
  */
