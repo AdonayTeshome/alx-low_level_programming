@@ -13,15 +13,17 @@ int main(void)
 
 	while (i <= 57)
 	{
+		putchar(i);
 		if (i == 57)
 		{
-			putchar(i);
-			break;
+			putchar(space);
+			i++;
+		}else
+		{
+			putchar(comma);
+			putchar(space);
+			i++;
 		}
-		putchar(i);
-		putchar(comma);
-		putchar(space);
-		i++;
-	}
+	};
 	return (0);
 }
