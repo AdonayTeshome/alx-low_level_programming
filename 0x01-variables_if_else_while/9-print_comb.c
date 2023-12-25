@@ -3,7 +3,7 @@
  * main - Entry Point
  * Description: A program that prints all possible combinations of single-digit
  *
- * Return: Always 0 (succes)
+ * Return: Always newline (succes)
  */
 int main(void)
 {
@@ -18,12 +18,13 @@ int main(void)
 		{
 			putchar(space);
 			i++;
-		}else
+		}
+		else
 		{
 			putchar(comma);
 			putchar(space);
 			i++;
 		}
 	};
-	return (0);
+	return ('\n');
 }
