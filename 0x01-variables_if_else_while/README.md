@@ -28,13 +28,21 @@
 #
 <img src='./img/1.png' width='700'></img>
 #
+## 2. _I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game_
+### Write a program that prints the alphabet in lowercase, followed by a new line.
+* You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+* All your code should be in the main function
+* You can only use putchar twice in your code
+#
+<img src='./img/2.png' width='700'></img>
+#
 ## 3. _alphABET_
 ### Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 * You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
 * All your code should be in the main function
 * You can only use putchar three times in your code
 #
-<img src='./img/2.png' width='700'></img>
+<img src='./img/3.png' width='700'></img>
 #
 ## 4. _When I was having that alphabet soup, I never thought that it would pay off_
 ### Write a program that prints the alphabet in lowercase, followed by a new line.
@@ -43,13 +51,13 @@
 * All your code should be in the main function
 * You can only use putchar twice in your code
 #
-<img src='./img/3.png' width='700'></img>
+<img src='./img/4.png' width='700'></img>
 #
 ## 5. _Numbers_
 ### Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 * All your code should be in the main function
 #
-<img src='./img/4.png' width='700'></img>
+<img src='./img/5.png' width='700'></img>
 #
 ## 6. _Numberz_
 ### Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
@@ -58,7 +66,7 @@
 * You can only use putchar twice in your code
 * All your code should be in the main function
 #
-<img src='./img/5.png' width='700'></img>
+<img src='./img/6.png' width='700'></img>
 #
 ## 7._Smile in the mirror_ 
 ### Write a program that prints the lowercase alphabet in reverse, followed by a new line.
@@ -66,7 +74,7 @@
 * All your code should be in the main function
 * You can only use putchar twice in your code
 #
-<img src='./img/6.png' width='700'></img>
+<img src='./img/7.png' width='700'></img>
 #
 ## 8._Hexadecimal_ 
 ### Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
@@ -74,7 +82,7 @@
 * All your code should be in the main function
 * You can only use putchar three times in your code
 #
-<img src='./img/7.png' width='700'></img>
+<img src='./img/8.png' width='700'></img>
 #
 ## 9. _Patience, persistence and perspiration make an unbeatable combination for success_
 ### Write a program that prints all possible combinations of single-digit numbers.
@@ -85,7 +93,7 @@
 * You can only use putchar four times maximum in your code
 * You are not allowed to use any variable of type char
 #
-<img src='./img/8.png' width='700'></img>
+<img src='./img/9.png' width='700'></img>
 #
 ## 10. _Inventing is a combination of brains and materials. The more brains you use, the less material you need_
 ### Write a program that prints all possible different combinations of two digits.
@@ -99,7 +107,7 @@
 * You are not allowed to use any variable of type char
 * All your code should be in the main function
 #
-<img src='./img/9.png' width='700'></img>
+<img src='./img/10.png' width='700'></img>
 #
 ## 11. _The success combination in business is: Do what you do better... and: do more of what you do..._
 ### Write a program that prints all possible different combinations of three digits.
@@ -113,7 +121,7 @@
 * You are not allowed to use any variable of type char
 * All your code should be in the main function
 #
-<img src='./img/10.png' width='700'></img>
+<img src='./img/11.png' width='700'></img>
 #
 ## 12. _Software is eating the World_
 ### Write a program that prints all possible different combinations of three digits.
@@ -127,5 +135,5 @@
 * You are not allowed to use any variable of type char
 * All your code should be in the main function
 #
-<img src='./img/11.png' width='700'></img>
+<img src='./img/12.png' width='700'></img>
 #
