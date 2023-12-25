@@ -1,9 +1,9 @@
 #include<stdio.h>
 /**
- * main : Entry Point
- * description : print from 0 - 9 using putchar
+ * main -  Entry Point
+ * Description: print from 0 - 9 using putchar
  *
- *Return : Always 0 (success)
+ * Return: Aways 0 (success)
  */
 int main(void)
 {
