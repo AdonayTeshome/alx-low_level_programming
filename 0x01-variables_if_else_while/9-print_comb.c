@@ -15,13 +15,12 @@ int main(void)
 	{
 		if (i == 57)
 		{
-			comma = 29;
+			comma = '\n';
 		}
 		putchar(i);
 		putchar(comma);
 		putchar(space);
 		i++;
 	}
-	putchar('\n');
 	return (0);
 }
