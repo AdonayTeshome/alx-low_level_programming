@@ -15,8 +15,7 @@ int main(void)
 	{
 		if (i == 57)
 		{
-			space = 36;
-			comma = 28;
+			comma = 29;
 		}
 		putchar(i);
 		putchar(comma);
